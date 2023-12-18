@@ -23,4 +23,7 @@ Here is a super simple diagram to explain connections:
 - [ ] Show display if there is movement
 - [ ] Read heartbeat and display it
 - [ ] Bluetooth
+- [ ] "T-Rex Chrome Dino Game" like game using gyro (can be fun)
+- [ ] Sleep improvements for battery life
 - [ ] Convert to C instead of micropython?
+- [ ] Super simple mobile app to configure ssid, password and etc.. via bluetooth
