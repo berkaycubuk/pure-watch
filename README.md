@@ -1,9 +1,9 @@
-# Pure Watch
+# Pure Watch
 Pure Watch is an open-source and open-hardware "smart" watch.
 
 ![Demo](./demo.gif)
 
-## Hardware
+## Hardware
 - Raspberry Pi Pico W
 - MPU6050 Gyro Sensor
 - SSD1306 128x32 Oled Display
@@ -17,7 +17,7 @@ Here is a super simple diagram to explain connections:
 
 ![Hardware diagram](./pure-watch-diagram.png)
 
-## Plan
+## Plan
 - [ ] Time sync with local file, wifi and cable connection
 - [ ] Close display if there is no movement
 - [ ] Show display if there is movement
